@@ -55,7 +55,7 @@ else:
 print("----------------------------------------")
 
 ~~~
-collab link: https://colab.research.google.com/drive/1kFTCLsvFfxmCm-FaAxBu6BASmEugMK2g?usp=sharing
+colab link: https://colab.research.google.com/drive/1kFTCLsvFfxmCm-FaAxBu6BASmEugMK2g?usp=sharing
 
 # Output
 <img width="926" height="403" alt="Screenshot 2025-12-11 213232" src="https://github.com/user-attachments/assets/5f50db99-9f86-4a10-a947-028f8f25c6f5" />
